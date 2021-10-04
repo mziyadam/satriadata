@@ -1,0 +1,1047 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,8293966,,,,8293966,,5085602,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,250817493,,,,250817493,,188491729,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2337128,,,,2337128,,954066,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,108000,,,,108000,,47880,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4359,,,,4359,,5315,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1100556,,,,1100556,,1313083,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,19200,,,,19200,,12144,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,42935,,,,42935,,33440,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,90000,,,,90000,,42840,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,6214394,,,,6214394,,3385826,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,90000,,,,90000,,44550,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,38400,,,,38400,,59800,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,97239,,,,97239,,129757,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,6905158,,,,6905158,,3477884,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,54000,,,,54000,,35450,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,315,,,,315,,125,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1969107,,,,1969107,,2241589,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,39,,,,39,,414,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,7687,,,,7687,,3794,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,366710,,,,366710,,246228,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,108000,,,,108000,,25747,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,17343,,,,17343,,33791,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,139800,,,,139800,,53256,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,204000,,,,204000,,81823,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1080608,,,,1080608,,1181557,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,90000,,,,90000,,45000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,192000,,,,192000,,56304,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,108000,,,,108000,,42903,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1293,,,,1293,,3565,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,14246,,,,14246,,166540,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,3825,,,,3825,,6708,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,198095,,,,198095,,141415,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2629500,,,,2629500,,1196902,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,9,,,,9,,16,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,29416712,,,,29416712,,18462496,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1798518,,,,1798518,,920009,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,22977,,,,22977,,18266,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2549,,,,2549,,2079,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1171199,,,,1171199,,940588,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,246000,,,,246000,,78024,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,126000,,,,126000,,36540,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,868802,,,,868802,,789831,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2080996,,,,2080996,,1231174,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,138900,,,,138900,,241903,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,239,,,,239,,251,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,11377948,,,,11377948,,7544725,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,151200,,,,151200,,61992,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,101276,,,,101276,,115145,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,58622776,,,,58622776,,49883311,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,580327,,,,580327,,311149,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2835,,,,2835,,1778,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2941698,,,,2941698,,1550433,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,381480,,,,381480,,202939,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,163800,,,,163800,,97827,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4836,,,,4836,,58958,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,143993,,,,143993,,90608,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,342825,,,,342825,,232338,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,9131715,,,,9131715,,5286845,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2020,,,,2020,,952,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,169,,,,169,,72,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2994193,,,,2994193,,4381853,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,5289806,,,,5289806,,2565471,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,564399,,,,564399,,343698,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,527,"Oceania, nes",,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,36000,,,,36000,,18000,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,38578,,,,38578,,26265,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,3606841,,,,3606841,,2721963,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,844024,,,,844024,,638713,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,51000,,,,51000,,65970,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,221409,,,,221409,,69770,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,577,"Other Africa, nes",,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,16500,,,,16500,,29700,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,169498,,,,169498,,282482,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,74343,,,,74343,,39747,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,54000,,,,54000,,19872,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,63000,,,,63000,,17178,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,562113,,,,562113,,414102,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,12912277,,,,12912277,,5813120,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1530064,,,,1530064,,940170,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1483015,,,,1483015,,1145015,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,23842,,,,23842,,6893,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,5428724,,,,5428724,,2589192,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,1182583,,,,1182583,,939713,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,46223,,,,46223,,146576,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,11956,,,,11956,,2883,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2963607,,,,2963607,,1686868,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,38541,,,,38541,,106839,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,10205091,,,,10205091,,7968176,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4875,,,,4875,,16818,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4250413,,,,4250413,,1844981,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,36172,,,,36172,,91440,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,146400,,,,146400,,70500,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4935370,,,,4935370,,1873661,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2472839,,,,2472839,,1236450,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,340,,,,340,,2599,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,9758,,,,9758,,2559,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,246000,,,,246000,,311893,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2469901,,,,2469901,,1655576,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,115200,,,,115200,,66816,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,35739,,,,35739,,112210,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,19049,,,,19049,,12144,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,198000,,,,198000,,199422,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,976775,,,,976775,,537844,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,36000,,,,36000,,29952,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,820320,,,,820320,,438982,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,147600,,,,147600,,84228,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,54000,,,,54000,,45360,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,4786944,,,,4786944,,2587724,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,2615,,,,2615,,3292,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,5915281,,,,5915281,,3851929,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,109260,,,,109260,,75379,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,36803245,,,,36803245,,42195526,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,891,Serbia and Montenegro,SCG,,,,,,,,0901,"Coffee, coffee husks and skins and coffee substitutes",8,Weight in kilograms,54000,,,,54000,,19872,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,4335243,,,,4335243,,5334177,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,24344208,,,,24344208,,34404213,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,744530,,,,744530,,372844,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,451336,,,,451336,,338242,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2379036,,,,2379036,,3542962,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,42852,,,,42852,,103013,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,81230,,,,81230,,50976,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,8934,,,,8934,,27559,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,34290,,,,34290,,128814,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2434,,,,2434,,2387,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,155570,,,,155570,,226677,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,59356,,,,59356,,69678,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,18606,,,,18606,,33445,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,52973,,,,52973,,38853,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,70512,,,,70512,,125436,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,37937,,,,37937,,84579,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,328786,,,,328786,,286281,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,71996,,,,71996,,62641,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,8608,,,,8608,,14303,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,59070,,,,59070,,23971,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,61519,,,,61519,,63516,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,112,,,,112,,119,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,268159,,,,268159,,263504,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,6214,,,,6214,,26409,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,3991,,,,3991,,6441,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1519,,,,1519,,6192,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,699,,,,699,,2519,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,188,,,,188,,454,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,301,,,,301,,334,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,26599,,,,26599,,60310,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1789,,,,1789,,3359,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,101052,,,,101052,,39194,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,296,Kiribati,KIR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,5107,,,,5107,,7923,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,30375,,,,30375,,17008,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,468634,,,,468634,,1076519,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,72442,,,,72442,,182151,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,80495,,,,80495,,94005,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,394582,,,,394582,,195310,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,46494,,,,46494,,50687,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,23559,,,,23559,,17279,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,96231,,,,96231,,84634,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,118658,,,,118658,,193742,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,20607,,,,20607,,57973,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,55428,,,,55428,,106413,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,4306,,,,4306,,11386,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,12087,,,,12087,,12247,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1564,,,,1564,,612,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2239823,,,,2239823,,2981931,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,4578617,,,,4578617,,4850533,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,286550,,,,286550,,282854,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,11229,,,,11229,,15758,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,283433,,,,283433,,280433,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,11200,,,,11200,,18800,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,60332,,,,60332,,97549,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,706558,,,,706558,,823566,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,12493,,,,12493,,15332,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,29883,,,,29883,,41394,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,29465,,,,29465,,59262,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,21890,,,,21890,,27410,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,4865,,,,4865,,7344,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,3532,,,,3532,,5991,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,4133,,,,4133,,1499,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,363602,,,,363602,,460442,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,237133,,,,237133,,186160,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,726,,,,726,,754,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,667,,,,667,,2406,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,25050,,,,25050,,58949,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,510,,,,510,,1850,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,42890,,,,42890,,52539,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1000,,,,1000,,6868,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2265512,,,,2265512,,3973544,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,54910,,,,54910,,80181,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,11,,,,11,,32,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,154225,,,,154225,,36103,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1620508,,,,1620508,,760869,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,172,,,,172,,750,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,112,,,,112,,361,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,279134,,,,279134,,496504,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,12698,,,,12698,,31995,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,76476,,,,76476,,132396,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,75132,,,,75132,,212229,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2426451,,,,2426451,,3417869,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,11878,,,,11878,,13582,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,158076,,,,158076,,460474,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,210833,,,,210833,,168914,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,120,,,,120,,1170,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,561,,,,561,,504,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1,,,,1,,6,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,630580,,,,630580,,678977,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,1924011,,,,1924011,,2539298,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,21932,,,,21932,,5311,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,36000,,,,36000,,9560,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,124430,,,,124430,,315021,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,13662,,,,13662,,11114,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,14192,,,,14192,,24892,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,118465,,,,118465,,144048,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,5235,,,,5235,,4200,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,112099,,,,112099,,95049,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,2768172,,,,2768172,,7585593,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,12628,,,,12628,,22198,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,1905,"Baked bread, pastry, wafers, rice paper, biscuits, etc",8,Weight in kilograms,84887,,,,84887,,123121,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,159554,,192901,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8948538,,76445601,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,137,,5407,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,10470,,30226,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,3987,,76254,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1863,,41175,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,22280,,128863,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,93,,1240,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2893,,52384,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1618,,7852,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,758,,12450,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,363186,,5274994,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2,,15,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2024,,22410,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,401,,1250,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,495,,7572,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4272,,5443,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2928,,14581,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,68491,,955812,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,47840,,248054,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1962,,19970,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,66328,,39208,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6902,,64138,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4637,,4016,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,164427,,423854,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4554,,37919,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4271,,48031,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6279,,27072,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1852,,35033,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,5,,10,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,481,,7265,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,12071,,50052,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,162,,2000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,111,,953,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1063,,14359,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,30968,,298432,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1906,,30359,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,90467,,1164024,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,176,,1773,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8131,,40662,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,170268,,1953011,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,15802,,217759,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4287,,799,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,44431,,40064,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,11816,,97972,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,440,,11843,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6434,,2675,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2549,,46132,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8088,,140685,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,256,,857,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,43195,,746914,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,5710,,5802,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,222282,,2591400,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,7887,,13253,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,49814,,603667,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4146,,3579,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4174,,18043,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,37470,,230701,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,3232,,22908,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2303,,7512,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4168,,15965,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1902,,4025,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,140819,,776319,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,3,,150,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,242896,,690695,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,3269,,22415,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,25250,,286058,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,15660,,11362,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6892,,43549,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6484,,47338,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,213213,,2698272,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,67250,,779622,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,350,,4098,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,35,,52,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6935,,47692,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,16177,,11831,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6150,,112307,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,13924,,178841,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,60569,,707349,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,16292,,53760,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8812,,19702,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,28133,,373094,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,13305,,5777,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2846,,6702,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1030,,5645,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,53131,,534638,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8190,,113587,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,466195,,3880177,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,19301,,72904,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,482,,938,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,348033,,2633325,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,219,,4084,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,41925,,103647,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1156,,6200,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,112804,,1036882,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,48448,,594494,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8400,,114995,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,69161,,240383,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,139,,430,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1423,,10600,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4076,,26310,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,658428,,5940779,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,1094,,18917,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,796,Turks and Caicos Isds,TCA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,12,,44,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,7024,,12822,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,61757,,441366,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,851618,,1460265,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,250,,3191,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,721929,,6133728,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,6028,,7478,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,120,,4072,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,2753330,,27487513,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,218,,3936,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,8705,,89869,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,5346,,12076,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,356961,,2777046,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,891,Serbia and Montenegro,SCG,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,114,,286,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,6103,"Mens, boys suits,jackets,trousers etc knit or crochet",1,No Quantity,,,,,4636,,18212,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,66137837,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1505580762,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,130,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9048,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,68971,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,109803,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,308256,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,761751,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,8772,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9113231,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,160384,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,17917075,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,4419,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1708723,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,854,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,51408,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,30580,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,98043,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,207361,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,117733956,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,93342,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,45907,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,534,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5173853,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,84,Belize,BLZ,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,28783,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1198,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,20360,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,107208,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,173822,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,293,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,202981,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,108,Burundi,BDI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,234183,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,179346,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,24520,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,14397,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,26733596,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10170,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,16646030,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,86323,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9108852,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,18697367,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2620862,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,53374,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,585,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,37439,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,303819,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,104860,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,36358,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,23732,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,308544,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,87498,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,882636,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1795752,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,17868,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,152423,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3731136,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,24840,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,71523,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1485878,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,584153,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3480,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,42829,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,41537,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,126817,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,238,Falkland Isds (Malvinas),FLK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,25088,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,198409,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7420,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2769974,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,61092,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,60546629,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,57197,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,137634,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,400864,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,50818,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,103571,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,67684,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,4181007,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,79313722,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,210087,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9816351,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,308,Grenada,GRD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,23500,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,640,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,21359,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,392618,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,67441,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,6758,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,40597,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3579162,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,32603872,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,929711,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,19642,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2892870,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,203707,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1613379,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,953203,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,40601196,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,552200,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3366,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,222637,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,64591910,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,119043,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,91882,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,15400,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9199264,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,11967348,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,315271,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10360,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1507654,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,4882,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,8820,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,901350,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7452,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1412846,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,26446866,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,310171,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,169669,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,30422,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,168917,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,317368,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,16261673,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,12981911,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10762929,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,6808,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,64634,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,137668,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5115,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,20780,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2725,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,527,"Oceania, nes",,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3199,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,857942,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,62054693,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,411972,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,100667,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,280606,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3313391,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,98830,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5907547,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,570,Niue,NIU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,35573,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7704,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,577,"Other Africa, nes",,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7675,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2589761,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,17880,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7136,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,49,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,324152,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10597338,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,278091,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,542007,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,326266,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3090297,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3592997,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,58570,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2836056,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,485825,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,8216,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,36221,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1064048,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,43,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1530,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,135,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,424,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2376,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2994299,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,103897,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,40465,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,10200,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,336895,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,795121,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,223984,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,12193564,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,51305,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2334461,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1572475,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,291291,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5672,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,6799812,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,142337,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,390739,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,25415437,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,732,Western Sahara,ESH,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,4831,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1515185,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,52715,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,31496,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,559,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,7679943,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3222004,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,60091,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,3758833,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1576,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,97146,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,12269,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,776,Tonga,TON,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,8097,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,12607,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5349363,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,17177,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,31784,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,2290276,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,12058,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,11937,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,340525,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,807,North Macedonia,MKD,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,53399,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1376446,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1245770,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,124596856,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1197666,,,0
+H1,2001,2001,2001,2,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,5494634,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,611881131,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,104029,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1555537,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1957438,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,876,Wallis and Futuna Isds,WLF,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,9,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,4837074,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,1043048,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,891,Serbia and Montenegro,SCG,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,271984,,,0
+H1,2001,2001,2001,2,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,64,"Footwear, gaiters and the like, parts thereof",1,No Quantity,,,,,,,21619,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,10372175,,,,10372175,,6517402,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,216916431,,,,216916431,,95834030,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,243413,,,,243413,,137625,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,33510,,,,33510,,21052,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,265410,,,,265410,,133933,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6670,,,,6670,,3045,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,2557698,,,,2557698,,925891,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,52137,,,,52137,,21417,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1054504,,,,1054504,,457388,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,7649,,,,7649,,13210,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,4334101,,,,4334101,,2484587,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,374,,,,374,,996,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,36,,,,36,,113,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,93832,,,,93832,,49778,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,14058193,,,,14058193,,3210281,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,14019,,,,14019,,8734,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,22905,,,,22905,,27658,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,271303,,,,271303,,209132,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,26237,,,,26237,,9729,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,405097,,,,405097,,242956,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,90,Solomon Isds,SLB,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,15814,,,,15814,,6340,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,13652,,,,13652,,50677,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,130,,,,130,,400,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,371187,,,,371187,,90247,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,314619,,,,314619,,76221,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,109727,,,,109727,,61518,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,869405,,,,869405,,171599,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5357257,,,,5357257,,2933733,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,39038,,,,39038,,17205,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,19200,,,,19200,,4270,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,7810878,,,,7810878,,3254061,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,15081,,,,15081,,13030,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5599067,,,,5599067,,2378732,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5271449,,,,5271449,,2498632,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1954857,,,,1954857,,877529,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,34,,,,34,,54,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,308511,,,,308511,,173083,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,174,Comoros,COM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,66154,,,,66154,,39577,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,259680,,,,259680,,72114,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,197132,,,,197132,,73849,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,402120,,,,402120,,191624,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,286612,,,,286612,,152688,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,85082,,,,85082,,148972,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,75119,,,,75119,,35844,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,51898,,,,51898,,15095,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,18,,,,18,,188,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,541107,,,,541107,,216540,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,66267,,,,66267,,45116,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1273700,,,,1273700,,567869,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1433693,,,,1433693,,498088,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,238803,,,,238803,,98698,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,226,Equatorial Guinea,GNQ,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,21696,,,,21696,,7320,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,479469,,,,479469,,110425,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,108870,,,,108870,,66667,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,41614,,,,41614,,8118,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,70,,,,70,,145,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,271758,,,,271758,,123131,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,103771,,,,103771,,51625,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1170537,,,,1170537,,757612,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,741354,,,,741354,,519372,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,217445,,,,217445,,27795,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,557432,,,,557432,,168713,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,24841,,,,24841,,16633,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,88391,,,,88391,,23235,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,63247,,,,63247,,97744,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,967370,,,,967370,,578443,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,606670,,,,606670,,206868,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,917897,,,,917897,,460551,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,110176,,,,110176,,58556,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1916306,,,,1916306,,814190,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,324,Guinea,GIN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,47121,,,,47121,,16361,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,75100,,,,75100,,44391,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,945793,,,,945793,,306425,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,92917,,,,92917,,37516,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,45552,,,,45552,,67904,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,699765,,,,699765,,899228,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,39248,,,,39248,,23303,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,65314,,,,65314,,33129,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,46985,,,,46985,,72135,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,7381,,,,7381,,8480,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,405104,,,,405104,,231174,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6481,,,,6481,,4599,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6862,,,,6862,,4941,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,77250,,,,77250,,57274,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,496229,,,,496229,,269203,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,835415,,,,835415,,234359,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,42969,,,,42969,,14733,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,54074,,,,54074,,67907,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5350306,,,,5350306,,8392130,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,2816323,,,,2816323,,1191559,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,635508,,,,635508,,190139,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,95428,,,,95428,,66796,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,174242,,,,174242,,65905,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1784301,,,,1784301,,798863,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6272396,,,,6272396,,2336268,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,63935,,,,63935,,27508,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1442986,,,,1442986,,377312,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,454,Malawi,MWI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,22365,,,,22365,,5826,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1697169,,,,1697169,,1233161,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,9731681,,,,9731681,,3672580,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,176492,,,,176492,,104635,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,24059,,,,24059,,4341,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,114818,,,,114818,,27065,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,87875,,,,87875,,36658,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1520837,,,,1520837,,453683,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,53380,,,,53380,,41648,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5187505,,,,5187505,,2534520,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,92815,,,,92815,,114635,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1284080,,,,1284080,,698485,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,498,Rep. of Moldova,MDA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,30386,,,,30386,,10379,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,500,Montserrat,MSR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,9187,,,,9187,,3211,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1364368,,,,1364368,,429298,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,483736,,,,483736,,214447,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,7513,,,,7513,,13822,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,9510,,,,9510,,3306,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6769,,,,6769,,25462,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1989837,,,,1989837,,1496485,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,378493,,,,378493,,167145,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,58798,,,,58798,,19209,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,3132,,,,3132,,20137,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,105,,,,105,,1134,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,635627,,,,635627,,405281,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,558,Nicaragua,NIC,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,8360,,,,8360,,2200,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,71,,,,71,,54,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1594342,,,,1594342,,406165,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,570,Niue,NIU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,53998,,,,53998,,24069,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,63373,,,,63373,,20858,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,577,"Other Africa, nes",,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,31275,,,,31275,,23248,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,119195,,,,119195,,70398,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,86,,,,86,,60,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,266,,,,266,,3286,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1572645,,,,1572645,,839327,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6352977,,,,6352977,,2328285,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,169850,,,,169850,,140694,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,13202,,,,13202,,7201,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,4872348,,,,4872348,,1620592,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,185,,,,185,,232,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,15394991,,,,15394991,,4640857,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,616,Poland,POL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,7856,,,,7856,,22748,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,414564,,,,414564,,171929,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,580,,,,580,,5118,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,400932,,,,400932,,162435,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,142259,,,,142259,,32200,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,15677,,,,15677,,12739,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,18,,,,18,,86,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,94169,,,,94169,,30913,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,17649,,,,17649,,7855,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,3972681,,,,3972681,,2042482,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,531,,,,531,,560,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,6398,,,,6398,,4741,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,50200,,,,50200,,13349,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,24251,,,,24251,,21141,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,14122725,,,,14122725,,5533798,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,230164,,,,230164,,215256,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1149910,,,,1149910,,1264171,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,41877,,,,41877,,18065,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,18972,,,,18972,,2937,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,855101,,,,855101,,325875,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,13980018,,,,13980018,,5515327,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,433958,,,,433958,,151761,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,29974,,,,29974,,43076,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1362368,,,,1362368,,567873,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,9558022,,,,9558022,,1955118,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,105228,,,,105228,,48193,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,9990,,,,9990,,4429,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,5076,,,,5076,,6004,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,122834,,,,122834,,56885,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,3348,,,,3348,,3841,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,86734,,,,86734,,25014,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,170609,,,,170609,,44436,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,44070,,,,44070,,69759,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1600325,,,,1600325,,921602,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,139019,,,,139019,,48051,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,460865,,,,460865,,127649,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,26905,,,,26905,,6422,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,4079941,,,,4079941,,2403924,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,987422,,,,987422,,292260,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,726557,,,,726557,,381812,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1825622,,,,1825622,,774911,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,136071,,,,136071,,59901,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,2450059,,,,2450059,,843911,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1615,,,,1615,,2954,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1649024,,,,1649024,,1817298,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,747635,,,,747635,,145203,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,395660,,,,395660,,404369,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,19527979,,,,19527979,,10218127,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,854,Burkina Faso,BFA,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,51702,,,,51702,,10362,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,374163,,,,374163,,193398,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,1025047,,,,1025047,,514293,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,10577,,,,10577,,8155,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,800467,,,,800467,,263911,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,891,Serbia and Montenegro,SCG,,,,,,,,7013,"Glassware for table, kitchen, toilet, decoration",8,Weight in kilograms,47229,,,,47229,,10923,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1170388,,,,1170388,,1098034,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,5941105,,,,5941105,,44090084,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,15104,,,,15104,,69208,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,6172,,,,6172,,47772,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,244323,,,,244323,,1668690,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,175663,,,,175663,,1488299,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,49758,,,,49758,,372450,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4329,,,,4329,,1745,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,12484,,,,12484,,89780,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,9943,,,,9943,,88398,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,504610,,,,504610,,3685619,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,70137,,,,70137,,373883,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,938735,,,,938735,,635646,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4460,,,,4460,,41357,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4530,,,,4530,,2461,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1440,,,,1440,,9750,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,5007,,,,5007,,18863,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,7,,,,7,,95,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,632,,,,632,,4131,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,17,,,,17,,50,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,16521,,,,16521,,145494,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1078,,,,1078,,1496,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,3050,,,,3050,,3382,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,91,,,,91,,227,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,48586,,,,48586,,357009,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,275,State of Palestine,PSE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,9446,,,,9446,,8829,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,6428,,,,6428,,20203,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1473926,,,,1473926,,12971472,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4584,,,,4584,,25205,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,16804,,,,16804,,166442,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,58416,,,,58416,,82151,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,32648,,,,32648,,209585,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,2680,,,,2680,,27145,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,5403,,,,5403,,41500,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,9520,,,,9520,,28400,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,9370,,,,9370,,114681,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,26856,,,,26856,,21991,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,21628,,,,21628,,277485,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,692,,,,692,,8007,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,9120,,,,9120,,32694,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1772,,,,1772,,11498,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,8707,,,,8707,,8838,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,36033,,,,36033,,166214,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,494,,,,494,,396,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,7470,,,,7470,,39692,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,21713,,,,21713,,140733,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,8967,,,,8967,,19860,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,2728,,,,2728,,39943,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,20736,,,,20736,,131328,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,7480,,,,7480,,55438,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,995,,,,995,,4636,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,580732,,,,580732,,4039197,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,20,,,,20,,6,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,73987,,,,73987,,505881,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,119,,,,119,,154,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,6729,,,,6729,,66925,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,2468,,,,2468,,1955,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,17527,,,,17527,,28684,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,512,,,,512,,541,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,240,,,,240,,910,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4905,,,,4905,,33565,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,24,,,,24,,22,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,87272,,,,87272,,16170,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,3,,,,3,,26,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,660,Anguilla,AIA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,160,,,,160,,1295,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1383,,,,1383,,10540,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,21464,,,,21464,,16830,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,37285,,,,37285,,30059,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,39501,,,,39501,,320215,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,16528,,,,16528,,119403,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,430,,,,430,,8000,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,178,,,,178,,1137,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,44266,,,,44266,,428410,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,110003,,,,110003,,931489,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,37,,,,37,,2365,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,198438,,,,198438,,2195386,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4171,,,,4171,,41719,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1234,,,,1234,,12428,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,4691,,,,4691,,35091,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1132,,,,1132,,737,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,337700,,,,337700,,2580164,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,18018,,,,18018,,69589,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,8215,"Spoons, forks, kitchen & table ware nes except knives",8,Weight in kilograms,1579043,,,,1579043,,9929054,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2673500,,4336995,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,525284898,,880148664,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,4,Afghanistan,AFG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,24357,,43247,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,8,Albania,ALB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,155574,,199286,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,12,Algeria,DZA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,16629,,48986,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,16,American Samoa,ASM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,53950,,70046,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,24,Angola,AGO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,137789,,117044,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,28,Antigua and Barbuda,ATG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,15165,,27655,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,31,Azerbaijan,AZE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3805,,3947,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,285970,,445343,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,31073,,32868,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,19791458,,25998203,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,40,Austria,AUT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,111108,,253556,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,44,Bahamas,BHS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,24898,,61653,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,48,Bahrain,BHR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,912884,,873443,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,50,Bangladesh,BGD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,426739,,212404,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,51,Armenia,ARM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,125,,965,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,52,Barbados,BRB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,77058,,70812,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5083,,6739,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,56,Belgium,BEL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,12425941,,28009579,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,60,Bermuda,BMU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4210,,6035,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,64,Bhutan,BTN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1133,,4618,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,68,Bolivia (Plurinational State of),BOL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10342,,17471,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,70,Bosnia Herzegovina,BIH,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2714,,9219,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,72,Botswana,BWA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3462,,6857,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,76,Brazil,BRA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,460414,,448709,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,92,Br. Virgin Isds,VGB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,15568,,17101,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,96,Brunei Darussalam,BRN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,670031,,482230,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,100,Bulgaria,BGR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,165140,,226501,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,220,,799,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,104,Myanmar,MMR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,149515,,139162,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,116,Cambodia,KHM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,50542,,80789,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,120,Cameroon,CMR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,12142,,11353,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,840,,14169,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4077478,,6844581,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,132,Cabo Verde,CPV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1547,,2399,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,136,Cayman Isds,CYM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,49437,,44687,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,140,Central African Rep.,CAF,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5135,,8971,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,200,,6687,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,144,Sri Lanka,LKA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,553663,,469609,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,152,Chile,CHL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,259530,,363745,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,156,China,CHN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,882690,,470977,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4308280,,2789401,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,162,Christmas Isds,CXR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1376,,4050,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,166,Cocos Isds,CCK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3508,,5645,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,170,Colombia,COL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,89310,,113345,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,178,Congo,COG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,38740,,24421,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,180,Dem. Rep. of the Congo,COD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10105,,15544,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,184,Cook Isds,COK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,41187,,31072,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,188,Costa Rica,CRI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,130976,,196912,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,191,Croatia,HRV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,26705,,61204,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,192,Cuba,CUB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,20667,,43423,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,196,Cyprus,CYP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,212898,,458549,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,203,Czechia,CZE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,207360,,410625,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,204,Benin,BEN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,162070,,159200,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,163,,1588,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,208,Denmark,DNK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5710627,,12626346,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,212,Dominica,DMA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,17833,,64780,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,214,Dominican Rep.,DOM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,385533,,402680,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,218,Ecuador,ECU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,58870,,56070,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,222,El Salvador,SLV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9729,,26804,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,231,Ethiopia,ETH,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,98748,,34975,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,232,Eritrea,ERI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4742,,11261,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,233,Estonia,EST,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,7977,,13568,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,234,Faeroe Isds,FRO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,33531,,50606,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,239,South Georgia and the South Sandwich Islands,SGS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1122,,1497,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,242,Fiji,FJI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,91520,,99928,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,246,Finland,FIN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1118868,,1521588,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,251,France,FRA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,485,,3933,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,251,France,FRA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,27511612,,42713530,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,258,French Polynesia,PYF,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,383261,,514185,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,262,Djibouti,DJI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,138388,,68780,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,266,Gabon,GAB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3050,,1114,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,268,Georgia,GEO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,81909,,146074,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,270,Gambia,GMB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,6034,,29016,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,32942,,148003,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,276,Germany,DEU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,12814270,,27301875,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,288,Ghana,GHA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,47186,,42883,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,292,Gibraltar,GIB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2495,,5582,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,115,,247,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,300,Greece,GRC,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1666081,,3054954,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,308,Grenada,GRD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21254,,30837,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,316,Guam,GUM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,48942,,47922,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,320,Guatemala,GTM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21290,,25668,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,328,Guyana,GUY,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5920,,6950,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,332,Haiti,HTI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,15808,,32376,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,336,Holy See (Vatican City State),VAT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,17849,,13480,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,340,Honduras,HND,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5281,,16049,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,75359,,109626,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,344,"China, Hong Kong SAR",HKG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3763896,,4392432,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,348,Hungary,HUN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,459889,,764139,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,352,Iceland,ISL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,63721,,128306,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,360,Indonesia,IDN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,237773,,369914,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,364,Iran,IRN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,260695,,495198,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,368,Iraq,IRQ,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,46170,,49992,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,372,Ireland,IRL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2484158,,3745851,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,181837,,444486,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,381,Italy,ITA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9896122,,15089436,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,384,Côte d'Ivoire,CIV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,106087,,99766,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,388,Jamaica,JAM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,48548,,56098,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,57060,,649192,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,392,Japan,JPN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,98536909,,163737229,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,398,Kazakhstan,KAZ,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3042,,7098,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,400,Jordan,JOR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,278842,,360922,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,404,Kenya,KEN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,121688,,102366,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,408,Dem. People's Rep. of Korea,PRK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,13414,,10955,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,6243,,134848,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9720150,,10036768,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,414,Kuwait,KWT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3323693,,3088344,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,417,Kyrgyzstan,KGZ,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1038,,2590,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,418,Lao People's Dem. Rep.,LAO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1107,,6389,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,422,Lebanon,LBN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,726168,,864335,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,428,Latvia,LVA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,11157,,3138,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,430,Liberia,LBR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,668,,1500,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,434,Libya,LBY,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,72328,,122367,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,440,Lithuania,LTU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1062,,2045,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,442,Luxembourg,LUX,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,18097,,5925,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,446,"China, Macao SAR",MAC,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10412,,20598,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,450,Madagascar,MDG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,112352,,110280,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,281964,,495891,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,12160846,,13380926,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,462,Maldives,MDV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1685623,,1527037,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,466,Mali,MLI,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,116903,,98207,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,470,Malta,MLT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,90270,,155583,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,478,Mauritania,MRT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21001,,55773,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,480,Mauritius,MUS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,700775,,649247,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,484,Mexico,MEX,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,771676,,1420057,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,135513,,198641,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,490,"Other Asia, nes",,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10162283,,9938439,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,496,Mongolia,MNG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,8009,,10091,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,500,Montserrat,MSR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3213,,5363,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,504,Morocco,MAR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,450497,,454710,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,508,Mozambique,MOZ,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,54627,,23368,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,512,Oman,OMN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,642381,,561350,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,516,Namibia,NAM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,13197,,37239,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,520,Nauru,NRU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21595,,64688,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,524,Nepal,NPL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5051,,103922,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,26707,,26340,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,528,Netherlands,NLD,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,26193089,,43816099,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3235,,170,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,530,Neth. Antilles,ANT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,101727,,121228,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,533,Aruba,ABW,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,81711,,245176,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,540,New Caledonia,NCL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,355174,,619321,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,548,Vanuatu,VUT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,12830,,54698,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,554,New Zealand,NZL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1944228,,2230565,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,562,Niger,NER,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,51965,,71948,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,566,Nigeria,NGA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,704380,,1026761,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,570,Niue,NIU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3193,,8731,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,574,Norfolk Isds,NFK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,325,,282,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,573,,4872,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,579,Norway,NOR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,798379,,1529305,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,580,N. Mariana Isds,MNP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3013,,2899,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,584,Marshall Isds,MHL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,18000,,10006,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,586,Pakistan,PAK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,30281,,26081,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,591,Panama,PAN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,161015,,242811,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,598,Papua New Guinea,PNG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,55955,,56150,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,600,Paraguay,PRY,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1509,,1952,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,604,Peru,PER,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,23353,,39965,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,168557,,224330,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3665567,,1836691,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,616,Poland,POL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,562714,,826917,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,620,Portugal,PRT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,946631,,971704,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2669613,,1012091,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,634,Qatar,QAT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,360992,,759004,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,642,Romania,ROU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,45141,,111513,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,643,Russian Federation,RUS,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,195379,,409288,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,646,Rwanda,RWA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,25724,,14200,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,654,Saint Helena,SHN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21151,,68554,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,659,Saint Kitts and Nevis,KNA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4198,,6478,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,662,Saint Lucia,LCA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,7607,,85134,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,670,Saint Vincent and the Grenadines,VCT,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,11653,,8059,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,674,San Marino,SMR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,6999,,4941,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,678,Sao Tome and Principe,STP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9256,,16338,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1333,,4020,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,682,Saudi Arabia,SAU,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,15110752,,9455593,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,686,Senegal,SEN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,52289,,64601,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,690,Seychelles,SYC,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,209117,,179255,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,694,Sierra Leone,SLE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21594,,36881,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,699,India,IND,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,8564,,6162,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,699,India,IND,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,903396,,789055,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,255870,,215879,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,19071932,,22499189,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,703,Slovakia,SVK,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,52243,,51975,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5941,,6391,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,704,Viet Nam,VNM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,157901,,96449,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,705,Slovenia,SVN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,41656,,54226,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,710,South Africa,ZAF,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2116815,,3714724,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,716,Zimbabwe,ZWE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9642,,17024,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,100867,,416812,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,724,Spain,ESP,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,13184051,,20999655,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,736,Fmr Sudan,SDN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,808129,,500958,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,740,Suriname,SUR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,16410,,21087,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,748,Eswatini,SWZ,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3318,,4205,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,7634,,4604,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,752,Sweden,SWE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2156573,,4921475,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1238,,1850,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,757,Switzerland,CHE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,1116065,,1902797,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,760,Syria,SYR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,2567,,4609,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,83016,,179129,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,764,Thailand,THA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,344886,,595996,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,768,Togo,TGO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10643,,7647,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,772,Tokelau,TKL,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,11789,,23607,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,780,Trinidad and Tobago,TTO,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,25372,,31598,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,600,,10755,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,784,United Arab Emirates,ARE,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,21926732,,17196807,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,788,Tunisia,TUN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,77266,,163331,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,100,,90,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,792,Turkey,TUR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,276243,,663952,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,795,Turkmenistan,TKM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,9166,,13431,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,796,Turks and Caicos Isds,TCA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5859,,13520,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,798,Tuvalu,TUV,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,5215,,6957,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,800,Uganda,UGA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,37352,,63512,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,375358,,323549,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,818,Egypt,EGY,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,715406,,769134,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,11050,,16952,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,826,United Kingdom,GBR,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,19703028,,34612464,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,834,United Rep. of Tanzania,TZA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,353244,,327928,,,0
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,68655,,130031,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,132767414,,312020381,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,858,Uruguay,URY,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,114987,,161536,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,862,Venezuela,VEN,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,243573,,326834,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,876,Wallis and Futuna Isds,WLF,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,3415,,3795,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,882,Samoa,WSM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,10686,,11852,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,887,Yemen,YEM,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,610910,,543839,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,891,Serbia and Montenegro,SCG,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,16495,,17347,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,894,Zambia,ZMB,,,,,,,,9403,Other furniture and parts thereof,1,No Quantity,,,,,4932,,15957,,,0
